@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZerraxTM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&custom_title=%F0%9F%93%8A%7C%20GitHub%20Stats%20LeZ" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZerraxTM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=%F0%9F%92%BB%7C%20Tech%20Stack" height="150" alt="languages graph"  />
 </div>
+
 ###
 
 <div align="left">
